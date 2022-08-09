@@ -46,5 +46,7 @@ Lista do que será ensinado nas seções:
 
     Bônus: HTML5 e CSS3
 
+Repositório das aulas 
+https://github.com/luizomf/curso-js
 
 
